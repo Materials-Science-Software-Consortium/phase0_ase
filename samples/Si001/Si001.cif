@@ -1,0 +1,39 @@
+data_frame0
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_number  1
+_cell_length_a 7.679420223
+_cell_length_b 3.8397101115
+_cell_length_c 16.2901924024
+_cell_angle_alpha 90.0
+_cell_angle_beta 90.0
+_cell_angle_gamma 90.0
+_cell_volume  480.344789782
+_cell_formula_units_Z 10
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_type_symbol
+    _atom_site_occupancy
+Si 0.34138 0.75 0.37105 Si 1
+Si 0.632536355 0.75 0.3587226684 Si 1
+Si 0.26229 0.25 0.29522 Si 1
+Si 0.73763 0.25 0.29519 Si 1
+Si 0 0.25 0.21632 Si 1
+Si 0.5 0.25 0.20432 Si 1
+Si 0 0.75 0.12903 Si 1
+Si 0.5 0.75 0.12284 Si 1
+Si 0.25 0.75 0.04301 Si 1
+Si 0.75 0.75 0.04301 Si 1
+Si -0.34138 -0.75 -0.37105 Si 1
+Si -0.632536355 -0.75 -0.3587226684 Si 1
+Si -0.26229 -0.25 -0.29522 Si 1
+Si -0.73763 -0.25 -0.29519 Si 1
+Si -0 -0.25 -0.21632 Si 1
+Si -0.5 -0.25 -0.20432 Si 1
+Si -0 -0.75 -0.12903 Si 1
+Si -0.5 -0.75 -0.12284 Si 1
+Si -0.25 -0.75 -0.04301 Si 1
+Si -0.75 -0.75 -0.04301 Si 1
